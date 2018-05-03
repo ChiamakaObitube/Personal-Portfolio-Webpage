@@ -1,0 +1,107 @@
+.bg-1 {
+    background-color: #597729;
+    /* color: #ffffff; */
+    text-align: center;
+    /*background-image: url('../img/image1.jpg');
+    /* background-size: 100%; */
+    background-repeat: no-repeat;
+    width: 100%;
+    /* height: 1040px; */
+    /* margin-top: 7%; */
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.bg-2 {
+    background-color: #474e3a;
+    /* Dark Blue */
+    color: #ffffff;
+}
+
+.bg-3 {
+    background-color: #ffffff;
+    /* White */
+    color: #555555;
+    /* background-image: url('https://lh3.googleusercontent.com/q7RJlGWxb-YmzzVqC03-cegeChrrRaM9Cooa3KP4zcXvBct215xlVAqv499W62Db0A=w300');*/
+    margin-top: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 20px;
+    letter-spacing: 5px;
+    background-color: #efad23;
+}
+
+.navbar-brand {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aqua;
+}
+
+.navbar-nav li a:hover {
+    color: #1abc9c !important;
+}
+
+.bg-4 {
+    background-color: #2f2f2f;
+    color: #ffffff;
+}
+
+body {
+    font: 20px "Montserrat", sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+    background-image: url('../img/image1.jpg');
+    background-size: cover;
+    height: 1040px;
+    /* background-image: url(https://s3.amazonaws.com/www.dealdey.com/system/deals/images/291038/S670x414/l2.jpg?1508921828); */
+    /* margin-top: 7%; */
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+p {
+    font-size: 16px;
+}
+
+#projects {
+    color: brown;
+    font-size: 200%
+}
+
+#contact {
+    text-align: center;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.social {
+    list-style: none;
+    padding: 0px;
+    color: #efad23;
+    display: inline-block;
+    font-size: 150%;
+}
+
+.social img {
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
+}
+
+.img-responsive {
+    display: inline;
+}
+
+footer p {
+    color: #000000;
+    text-align: center;
+}
